@@ -7,7 +7,7 @@
 		"maintenance": 0,
 		"uniques": [ "Automatically built in all cities where it is buildable",
 		    "Limited to [1] per Civilization",
-		    "Unbuildable <for [AI player]>",
-		    "Free [Worker] appears <for [Human player]>"]
+		    "Unbuildable <for [AI player] Civilizations>",
+		    "Free [Worker] appears <for [Human player] Civilizations>"]
 	},
 ]
